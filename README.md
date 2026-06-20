@@ -42,7 +42,7 @@
 ### 🔍 [Whyso AI](https://github.com/smilymouth/whyso)
 > *X-ray vision for AI prompts*
 
-See exactly which words in your prompt drove the AI's response — token-level heatmap, 9-layer scoring engine, semantic embeddings. Built entirely in the browser. No data leaves your device.
+Whyso is on-device prompt observability — it scores every token in your LLM's response by influence, so you can see why your prompt produced that output, without sending data to any server. Radar charts, heatmaps, multi-model comparison, all running in your browser.
 
 `React` `@xenova/transformers` `Supabase` `Cloudflare Workers`
 
@@ -146,7 +146,7 @@ class Smilymouth:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan-v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vishnu-vardhan-v](https://www.linkedin.com/in/vishnu-vardhan-v-932272385/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smilymouth)
 
 *Open to: Bug bounty collabs · CTF teammates · Security research*
